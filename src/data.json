@@ -1,0 +1,170 @@
+[
+    {
+        "id": 1,
+        "title": "Potato",
+        "img": "https://www.crimsoncoward.com/wp-content/uploads/2023/05/potatoes-scaled.jpg",
+        "category": "vegetables",
+        "price": "1$"
+    },
+    {
+        "id": 2,
+        "title": "Apple",
+        "img": "https://images.everydayhealth.com/images/diet-nutrition/apples-101-about-1440x810.jpg",
+        "category": "fruits",
+        "price": "2$"
+    },
+    {
+        "id": 3,
+        "title": "Apple juice",
+        "img": "https://8thwondertea.com/cdn/shop/articles/custom_resized_175073ac-3882-473d-9cc7-b98eebd67d13.jpg?v=1678563564",
+        "category": "juices and cocktails",
+        "price": "1.5$"
+    },
+    {
+        "id": 4,
+        "title": "Hot-dog",
+        "img": "https://www.seriouseats.com/thmb/QJZXQHDXBfTiUSKstQ1uskJc31g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SEA-best-grilled-hot-dogs-recipe-hero-02-9d245c0d43874a3da13a7228682b0dce.jpg",
+        "category": "food",
+        "price": "2.5$"
+    },
+    {
+        "id": 5,
+        "title": "Americano",
+        "img": "https://www.luxcafeclub.com/cdn/shop/articles/Americano_Coffee_1100x.png?v=1713411608",
+        "category": "coffee and tea",
+        "price": "1$"
+    },
+    {
+        "id": 6,
+        "title": "Tomato",
+        "img": "https://media.post.rvohealth.io/wp-content/uploads/2020/09/AN313-Tomatoes-732x549-Thumb.jpg",
+        "category": "vegetables",
+        "price": "1.15$"
+    },
+    {
+        "id": 7,
+        "title": "Peach",
+        "img": "https://canadianfoodfocus.org/wp-content/uploads/2020/09/white-peaches-1024x576.jpg",
+        "category": "fruits",
+        "price": "2.2$"
+    },
+    {
+        "id": 8,
+        "title": "Orange fresh",
+        "img": "https://www.knowyourproduce.com/wp-content/uploads/2014/04/fresh-squeezed-orange-juice-6-500x500.jpg",
+        "category": "juices and cocktails",
+        "price": "1.5$"
+    },
+    {
+        "id": 9,
+        "title": "Hamburger",
+        "img": "https://biteswithbri.com/wp-content/uploads/2021/02/HamburgerPattyRecipe04.jpg",
+        "category": "food",
+        "price": "2.5$"
+    },
+    {
+        "id": 10,
+        "title": "Cappuccino",
+        "img": "https://www.acouplecooks.com/wp-content/uploads/2020/10/how-to-make-cappuccino-005.jpg",
+        "category": "coffee and tea",
+        "price": "0.56$"
+    },
+    {
+        "id": 11,
+        "title": "Onion",
+        "img": "https://m.media-amazon.com/images/I/51DJ-9xkuQL.jpg",
+        "category": "vegetables",
+        "price": "1.15$"
+    },
+    {
+        "id": 12,
+        "title": "Pineapple",
+        "img": "https://fruitfortheoffice.co.uk/pub/media/catalog/product/p/i/pineapple.jpg",
+        "category": "fruits",
+        "price": "2$"
+    },
+    {
+        "id": 13,
+        "title": "Margarita",
+        "img": "https://www.saveur.com/uploads/2013/05/Photo-Murray-Hall-Food-Styling-Tyna-Hoang-240726-saveur-murrayhall-12-frozen-limeade-margarita-008-scaled.jpg?auto=webp",
+        "category": "juices and cocktails",
+        "price": "1.90$"
+    },
+    {
+        "id": 14,
+        "title": "Fries",
+        "img": "https://www.simplyrecipes.com/thmb/FOFiXkU9bFgOB8XxaRtC7YRtVM4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Fries-LEAD-08-aafb4546b5b641b1bb6d96b4d3740d3d.jpg",
+        "category": "food",
+        "price": "2.5$"
+    },
+    {
+        "id": 15,
+        "title": "Black tea",
+        "img": "https://twinings.co.uk/cdn/shop/articles/How_To_Taste_Tea.jpg?v=1622729251",
+        "category": "coffee and tea",
+        "price": "1$"
+    },
+    {
+        "id": 16,
+        "title": "Carrot",
+        "img": "https://www.hhs1.com/hubfs/carrots%20on%20wood-1.jpg",
+        "category": "vegetables",
+        "price": "1.15$"
+    },
+    {
+        "id": 17,
+        "title": "Strawberry",
+        "img": "https://cdn.nyallergy.com/wp-content/uploads/square-1432664914-strawberry-facts1.jpeg",
+        "category": "fruits",
+        "price": "2$"
+    },
+    {
+        "id": 18,
+        "title": "Mohito",
+        "img": "https://www.saveur.com/uploads/2007/02/SAVEUR_Mojito_1149-Edit-scaled.jpg?auto=webp&auto=webp&optimize=high&quality=70&width=1440",
+        "category": "juices and cocktails",
+        "price": "1.5$"
+    },
+    {
+        "id": 19,
+        "title": "Pizza",
+        "img": "https://images.ctfassets.net/j8tkpy1gjhi5/5OvVmigx6VIUsyoKz1EHUs/b8173b7dcfbd6da341ce11bcebfa86ea/Salami-pizza-hero.jpg",
+        "category": "food",
+        "price": "2.5$"
+    },
+    {
+        "id": 20,
+        "title": "Fruit tea",
+        "img": "https://img.freepik.com/premium-photo/teapot-with-fruit-tea-blend-fruity-aromas_974629-271312.jpg",
+        "category": "coffee and tea",
+        "price": "1$"
+    },
+    {
+        "id": 21,
+        "title": "Cucumber",
+        "img": "https://www.vegetables.co.nz/assets/Vegetables-co-nz/Vegetables/cucumber.jpg",
+        "category": "vegetables",
+        "price": "1.15$"
+    },
+    {
+        "id": 22,
+        "title": "Blueberry",
+        "img": "https://blueberry.org/wp-content/uploads/2021/04/Fresh-Highbush-Blueberries-in-Heart-Dish-edited.jpg",
+        "category": "fruits",
+        "price": "2$"
+    },
+    {
+        "id": 23,
+        "title": "Lemon juice",
+        "img": "https://www.organicfacts.net/wp-content/uploads/lemonjuiceforacne.jpg",
+        "category": "juices and cocktails",
+        "price": "1.5$"
+    },
+    {
+        "id": 24,
+        "title": "Spaghetti",
+        "img": "https://img.taste.com.au/sE-X5HqY/taste/2024/03/5-ingredient-turbo-charged-spaghetti-recipe-196959-1.jpg",
+        "category": "food",
+        "price": "2.5$"
+    }
+]
